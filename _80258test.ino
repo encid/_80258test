@@ -11,7 +11,7 @@
 
 const int HIGH_PRESS_FREQ_LOW_END =   80;
 const int HIGH_PRESS_FREQ_HIGH_END =  100;
-const int LOW_PRESS_FREQ_LOW_END =    230;
+const int LOW_PRESS_FREQ_LOW_END =    220;
 const int LOW_PRESS_FREQ_HIGH_END =   250;
 const byte SWITCH_PIN = 6;
 const byte FREQ_PIN = 9;
